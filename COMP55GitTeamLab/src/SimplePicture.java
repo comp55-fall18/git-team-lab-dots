@@ -1,6 +1,8 @@
 //comment one
 //another comment
 //yet another comment
+//DOTS team!!!
+
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
@@ -17,11 +19,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 
 
-		
+		GLabel label = new GLabel("Nice. Nice. Nice. Nice. Nice.", 200, 300);
 
-		GLabel label = new GLabel(":p", 200, 400);
-
-
-		add(label);
 	}
 }
