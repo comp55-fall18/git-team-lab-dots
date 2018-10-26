@@ -1,6 +1,8 @@
 //comment one
 //another comment
 //yet another comment
+//DOTS team!!!
+
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
@@ -17,10 +19,12 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 
 
-		GLabel label = new GLabel("Those darned passwords, btw my password is: ****** - David!", 200, 400);
+		GLabel label = new GLabel("Those darned passwords, btw my password is: ****** - David!!", 200, 400);
+
 
 
 
 		add(label);
+		//here's a new comment also
 	}
 }
