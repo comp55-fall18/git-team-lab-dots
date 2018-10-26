@@ -11,12 +11,15 @@ public class SimplePicture extends GraphicsProgram {
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
-	//I did something
+	//You guys suck
 	public void run() {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
 
-		GLabel label = new GLabel("Those darned passwords, btw my password is: ****** - David", 200, 400);
+
+		GLabel label = new GLabel("Those darned passwords, btw my password is: ****** - David!", 200, 400);
+
+
 
 		add(label);
 	}
