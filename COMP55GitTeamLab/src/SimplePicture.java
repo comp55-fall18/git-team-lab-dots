@@ -11,12 +11,16 @@ public class SimplePicture extends GraphicsProgram {
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
-	//I did something
+	//You guys suck
 	public void run() {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
 
+<<<<<<< HEAD
 		GLabel label = new GLabel("No room for laziness. -hackslash", 200, 400);
+=======
+		GLabel label = new GLabel("HAHA I AM BEING LAZY - martyr :p", 200, 400);
+>>>>>>> branch 'master' of https://github.com/comp55-fall18/git-team-lab-dots.git
 
 		add(label);
 	}
