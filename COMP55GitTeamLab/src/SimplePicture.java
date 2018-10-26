@@ -1,6 +1,8 @@
 //comment one
 //another comment
 //yet another comment
+//DOTS team!!!
+
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
